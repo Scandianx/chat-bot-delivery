@@ -11,12 +11,10 @@ O Chat Bot de Delivery de Pizzaria é um sistema desenvolvido para facilitar o p
 - O sistema gerencia os pedidos, armazenando as informações no banco de dados PostgreSQL.
 - Integração com o WhatsApp para receber e processar os pedidos dos clientes.
 
-s.
-
 
 ## Funcionamento - Functionality
 ![Modelo Conceitual]
-(Github tirou um pouco da qualidade das imagens) - (Github reduced the quality of the images)
+
 
 
 # Tecnologias utilizadas - Technologies Used
@@ -64,6 +62,9 @@ npm i qrcode-terminal
 # executar o projeto
 npm start
 ```
+#Licença 
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT)
 
 # Autor
 
