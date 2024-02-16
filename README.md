@@ -13,7 +13,7 @@ O Chat Bot de Delivery de Pizzaria é um sistema desenvolvido para facilitar o p
 
 
 ## Funcionamento - Functionality
-![Modelo Conceitual]
+![Gif Projeto] (https://github.com/Scandianx/chat-bot-delivery/blob/main/assets/gitchatbot.gif)
 
 
 
